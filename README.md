@@ -32,20 +32,20 @@
 
 ## 執行說明
 
-<img width="500" height="286" alt="螢幕擷取畫面 2026-05-25 154801" src="https://github.com/user-attachments/assets/771f0218-2fc3-4da6-9d59-1abf51dc686d" />
+<img width="700" height="400" alt="螢幕擷取畫面 2026-05-25 154801" src="https://github.com/user-attachments/assets/771f0218-2fc3-4da6-9d59-1abf51dc686d" />
 
 ### 1. 載入單字檔
 * 點擊選單列的「開啟檔案」，系統預設會尋找 `.txt` 或 `.tsv` 格式的單字檔。
 * 成功載入後，左下角狀態列會提示「X 單字已成功載入」。
 
-  <img width="500" height="285" alt="螢幕擷取畫面 2026-05-25 154823" src="https://github.com/user-attachments/assets/4467179f-3c34-4cce-a6c8-356811fe0134" />
+  <img width="700" height="400" alt="螢幕擷取畫面 2026-05-25 154823" src="https://github.com/user-attachments/assets/4467179f-3c34-4cce-a6c8-356811fe0134" />
 
 
 ### 2. 高效單字背誦
 * 單手操作鍵盤 **↑ (上) / ↓ (下)** 方向鍵即可流暢切換單字，畫面會自動跟隨捲動。
 * 按下 **Space (空白鍵)** 即可直接勾選/取消該單字的「已背誦」狀態。
 
-  <img width="500" height="285" alt="螢幕擷取畫面 2026-05-25 154850" src="https://github.com/user-attachments/assets/d6060566-f9c9-4fbc-8109-88b649027899" />
+  <img width="700" height="400" alt="螢幕擷取畫面 2026-05-25 154850" src="https://github.com/user-attachments/assets/d6060566-f9c9-4fbc-8109-88b649027899" />
 
 ### 3. 進度自動存檔
 * 當您勾選任何一個單字時，程式已在背景悄悄完成存檔。您可以隨時關閉程式，下次重新載入同一個檔案時，所有打勾的進度都會完美還原。
